@@ -15,7 +15,7 @@ function setup(){
 
     rubber = new Rubber(100,100,10);
     stone = new Stone(700,320,40,20);
-    iron = new Iron(920,320,70,70);
+    iron = new Iron(300,350);
 }
 
 function draw(){
